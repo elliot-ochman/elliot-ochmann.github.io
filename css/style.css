@@ -1,0 +1,92 @@
+body {
+  background-image: url("https://i.ytimg.com/vi/QMWYuCerQms/maxresdefault.jpg");
+  font-family: 'Share Tech Mono', monospace;
+}
+  .video-page {
+    background-image: url("https://images7.alphacoders.com/587/587593.png");
+  }
+  h6 {
+    font-size: 60px;
+    margin-bottom: 0;
+    color: white;
+    font-family: 'Share Tech Mono', monospace !important;
+    text-shadow: 1px 1px black;
+  }
+
+  p {
+    color: white;
+    font-size: 30px;
+    text-shadow: 1px 1px black;
+  }
+  .center {
+    width:100%;
+    float:left;
+    text-align:center;
+  }
+  .left{
+    width: 50;
+    float: left;10
+  }
+  .top-bar {
+    background-color: transparent !important;
+  }
+  .top-bar ul {
+    background-color: white;
+  }
+  .menu-text {
+    font-size: 25px;
+  }
+  .menu li a {
+    font-size: 20px;
+    color: black;
+  }
+  .center li a {
+    font-size: 60px;
+    color: white;
+    font-family: 'Share Tech Mono', monospace !important;
+    text-shadow: 1px 1px black;
+  }
+  h4 {
+    font-size: 85px;
+    margin-bottom: 0;
+    color: white;
+    font-family: 'Share Tech Mono', monospace !important;
+    text-shadow: 1px 1px black;
+  }
+  .progames-page{
+    background-image: url(https://i.ytimg.com/vi/6IAn_ubgsGU/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .left {
+    margin-right: 25cm;
+    margin-top: 40px;
+    margin-left: 2cm;
+  }
+  .box1 {
+    width: 300px;
+    height: 600px;
+    border: 1px solid white;
+    background-color: white;
+    margin-right: 22cm;
+    margin-top: 125px;
+    margin-left: 4cm;
+  }
+  .right {
+    margin-right: 2cm;
+    margin-top: none;
+    margin-left: 25cm;
+    position: relative;
+    bottom: 675px;
+  }
+  .box2 {
+    width: 300px;
+    height: 600px;
+    border: 1px solid white;
+    background-color: white;
+    margin-right: 4cm;
+    margin-top: 125px;
+    margin-left: 22cm;
+    position: relative;
+    bottom: 675px;
+  }

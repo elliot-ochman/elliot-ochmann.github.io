@@ -64,13 +64,11 @@ body {
     margin-left: 2cm;
   }
   .box1 {
-    width: 300px;
+    width: 50%;
     height: 600px;
     border: 1px solid white;
     background-color: white;
-    margin-right: 22cm;
-    margin-top: 125px;
-    margin-left: 4cm;
+    margin-left: 20%;
   }
   .right {
     margin-right: 2cm;
